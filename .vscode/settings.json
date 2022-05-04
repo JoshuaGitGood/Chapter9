@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "Chapter9Exercise1/src/empInfo",
+        "Chapter9Exercise2/src/banking"
+    ]
+}
